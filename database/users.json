@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Ben Stokes",
+        "login": "test@test.ru",
+        "password": "test",
+        "role": "manager"
+    },
+    {
+        "id": 2,
+        "name": "Eoin Morgan",
+        "login": "mail@mail.ru",
+        "password": "mail",
+        "role": "translator"
+    },
+    {
+        "id": 3,
+        "name": "Helena Lee",
+        "login": "mail@yandex.ru",
+        "password": "yandex",
+        "role": "translator"
+    },
+    {
+        "id": 4,
+        "name": "Alicia Key",
+        "login": "mail@gmail.com",
+        "password": "gmail",
+        "role": "translator"
+    }
+]

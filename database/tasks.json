@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "status": "rejected",
+        "client": "Mr$Mrs",
+        "executor": "mail@mail.ru",
+        "original_lang": "ru",
+        "translation_lang": {
+            "4": "it"
+        },
+        "deadline": "2020-10-10",
+        "original_text_preview": "По сравнению с Германией в России не так много диалектов. Конечно, есть различия в произношении. Страна может быть разделена на три основных языковых групп: Северный русский, Южный русский и центральный русский. Конкурентное произношение основано на русской полуторной группе, которая является спокеном в Москве. Это связано с тем, что Россия всегда была сильной центральной. Различия в диалоговых окнах состоят в основн",
+        "original_text": "1.json"
+    },
+    {
+        "id": 2,
+        "status": "done",
+        "client": "Sergei",
+        "executor": "mail@yandex.ru",
+        "original_lang": "en",
+        "translation_lang": {
+            "0": "ru",
+            "3": "fr"
+        },
+        "deadline": "2020-11-11",
+        "original_text_preview": "In comparison with Germany, there are not so many dialects in Russia. Of course, there are differences in pronunciation. Russian Russian Russian can be divided into three main language groups: Northern Russian, southern Russian and Central Russian. The competitive pronunciation is based on the Russian one-and-a-half group, which is Spokane in Moscow. This is due to the fact that Russia has always been a strong Centra",
+        "original_text": "2.json"
+    },
+    {
+        "id": 3,
+        "status": "done",
+        "client": "Ivanov",
+        "executor": "mail@gmail.com",
+        "original_lang": "ru",
+        "translation_lang": {
+            "1": "en",
+            "2": "de",
+            "3": "fr",
+            "4": "es"
+        },
+        "deadline": "2020-12-12",
+        "original_text_preview": "По сравнению с Германией в России не так много диалектов. Конечно, есть различия в произношении. Страна может быть разделена на три основных языковых групп: Северный русский, Южный русский и центральный русский. Конкурентное произношение основано на русской полуторной группе, которая является спокеном в Москве. Это связано с тем, что Россия всегда была сильной центральной. Различия в диалоговых окнах состоят в основн",
+        "original_text": "3.json"
+    },
+    {
+        "id": 4,
+        "status": "done",
+        "client": "Kethrina",
+        "executor": "mail@mail.ru",
+        "original_lang": "de",
+        "translation_lang": [
+            "ru"
+        ],
+        "deadline": "2020-12-23",
+        "original_text_preview": "Im Vergleich zu Deutschland gibt es in Russland nicht viele Dialekte. Natürlich gibt es Unterschiede in der Aussprache. Das Land kann in drei hauptsprachgruppen unterteilt werden: Nord-Russisch, Süd-Russisch und zentral-Russisch. Die wettbewerbsorientierte Aussprache basiert auf der Russischen halbgruppe, die spokene in Moskau ist. Das liegt daran, dass Russland immer eine starke zentrale war. Die Unterschiede in den",
+        "original_text": "4.json"
+    },
+    {
+        "id": 5,
+        "status": "resolved",
+        "client": "Alisha",
+        "executor": "mail@yandex.ru",
+        "original_lang": "en",
+        "translation_lang": {
+            "4": "es"
+        },
+        "deadline": "2020-03-03",
+        "original_text_preview": "In comparison with Germany, there are not so many dialects in Russia. Of course, there are differences in pronunciation. Russian Russian Russian can be divided into three main language groups: Northern Russian, southern Russian and Central Russian. The competitive pronunciation is based on the Russian one-and-a-half group, which is Spokane in Moscow. This is due to the fact that Russia has always been a strong Centra",
+        "original_text": "5.json"
+    }
+]
